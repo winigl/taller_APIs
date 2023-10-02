@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    background-image: url('https://e1.pxfuel.com/desktop-wallpaper/959/762/desktop-wallpaper-173-estrellas-fondos-de-pantalla-universo-estrellas.jpg');
+    color: white;
+}
+
+#resultados {
+    padding: 20px;rgb(206, 33, 33)
+    border: 1px solid #ccc;
+    font-size: 16px;
+    color: #4f28dd;
+}
